@@ -1,4 +1,4 @@
-# Pixel video downscaler
+# Pixel video upscaler
 ## Motivation
 I had a [trailer](https://www.youtube.com/watch?v=jb6uOKTxTlc&ab_channel=Yolwoocle) for one of my PICO-8 games, but it was too blurry due to compression and me exporting to a size too small. Unfortunately, I have lost the original files so I had no choice but to try to work with the compressed video I had, and try to recover the original pixels from the video.
 
